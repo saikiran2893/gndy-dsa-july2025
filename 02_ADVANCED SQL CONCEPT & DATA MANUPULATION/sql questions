@@ -1,0 +1,20 @@
+Beginner Level:
+Retrieve all author names from the Authors table.
+Get the titles of all books written by "J.K. Rowling".
+List all customers who have borrowed books.
+Find all books borrowed by "Alice Johnson".
+Display the total number of books in the Books table.
+
+Intermediate Level:
+Find the number of books borrowed by each customer.
+Retrieve the details of books that have not been borrowed.
+List the books that have been borrowed but not yet returned.
+Find customers who have borrowed more than 2 books.
+Get the most borrowed book along with its borrow count.
+
+Advanced Level:
+Write a query to find the author whose books have been borrowed the most.
+Find the customer who has borrowed the highest number of unique books.
+List customers along with the number of books borrowed, including those who haven't borrowed any books.
+Retrieve books borrowed in February 2024 along with borrower details.
+Find the average number of days taken to return a book and identify the book with the longest borrow period.
