@@ -1,0 +1,18 @@
+SQL:
+
+Find all books borrowed by "Alice Johnson".
+Retrieve all author names from the Authors table.
+
+Get the most borrowed book along with its borrow count.
+
+Python:
+
+Loop the values from 1 to 10 , and print the number is odd or eve
+
+expected output:
+
+1 is odd
+2 is even
+3 is odd
+...
+10 is even
